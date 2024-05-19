@@ -41,4 +41,8 @@ This project involves analyzing sales data using SQL. The goal is to perform var
 I provided my solutions in two documents. A google doc and google sheet.<br/>
 On the google doc, I wrote the MySQL query with the explanation. see a snap shot of it below.
 
+![MySQL assessment 3 - Google Docs 2024-05-19 06_09_46](https://github.com/JonasGiven/MySQL-fundamentals-project/assets/169194581/0e8cfbe0-f730-4dc7-983b-7af28849a64b)
 To access the google doc [click here](https://docs.google.com/document/d/1smuYvHCBbrSOrolQFgm-Om0RR4be_3ubtxR1-R6_P8c/edit?usp=sharing)
+On the google sheet doc, I have all the images of the query results from MySQL. See what I meant below
+
+To access the google sheet file [click here](https://docs.google.com/spreadsheets/d/1T5PxfY5wwdwjZnxmeMcHjgD0yIchjOnyJfz29lWuksE/edit?usp=sharing)
