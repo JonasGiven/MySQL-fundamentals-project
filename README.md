@@ -47,3 +47,5 @@ On the google sheet doc, I have all the images of the query results from MySQL. 
 ![MySQL Results per query - Google Sheets 2024-05-19 06_18_31](https://github.com/JonasGiven/MySQL-fundamentals-project/assets/169194581/e9f05968-c2ef-4db0-b1fb-0af8730eec6d)
 
 To access the google sheet file [click here](https://docs.google.com/spreadsheets/d/1T5PxfY5wwdwjZnxmeMcHjgD0yIchjOnyJfz29lWuksE/edit?usp=sharing)
+
+For access to the entire MySQL code [click here](MySQL code)
