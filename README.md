@@ -49,9 +49,6 @@ On the google sheet, I have all the images of the query results from MySQL. See 
 To access the google sheet file [click here](https://docs.google.com/spreadsheets/d/1T5PxfY5wwdwjZnxmeMcHjgD0yIchjOnyJfz29lWuksE/edit?usp=sharing)
 
 ---
-
-## MySQL Fundamentals Project: Analyzing Sales Data
-
 ### Access the Entire MySQL Code
 To access the entire MySQL code, [click here](https://github.com/JonasGiven/MySQL-fundamentals-project/blob/main/MySQL%20code).
 
