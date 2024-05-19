@@ -1,0 +1,45 @@
+SELECT * FROM company_sales.sales;
+
+SELECT SUM(sales) AS total_sales, SUM(profit) AS total_profit 
+FROM company_sales.sales;
+
+SELECT AVG(sales) AS avg_sales, AVG(profit) AS avg_profit
+FROM company_sales.sales;
+
+SELECT region, SUM(sales) AS total_sales
+FROM company_sales.sales
+GROUP BY region
+ORDER BY total_sales DESC
+LIMIT 3;
+
+SELECT product, (profit / sales) AS profit_margin
+FROM company_sales.sales
+ORDER BY profit_margin DESC
+LIMIT 1;
+
+SELECT product, SUM(sales) AS total_sales, SUM(profit) AS total_profit
+FROM company_sales.sales
+GROUP BY product;
+
+SELECT region, AVG(profit) AS avg_profit
+FROM company_sales.sales
+GROUP BY region;
+
+SELECT date, SUM(sales) AS total_sales
+FROM company_sales.sales
+GROUP BY date
+ORDER BY total_sales DESC
+LIMIT 1;
+
+SELECT product, SUM(sales) AS total_sales
+FROM company_sales.sales
+WHERE region = 'East'
+GROUP BY product
+ORDER BY total_sales DESC
+LIMIT 1;
+
+SELECT date, SUM(sales) AS total_sales
+FROM company_sales.sales
+GROUP BY date
+ORDER BY total_sales DESC
+LIMIT 5;
