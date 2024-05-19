@@ -48,4 +48,4 @@ On the google sheet doc, I have all the images of the query results from MySQL. 
 
 To access the google sheet file [click here](https://docs.google.com/spreadsheets/d/1T5PxfY5wwdwjZnxmeMcHjgD0yIchjOnyJfz29lWuksE/edit?usp=sharing)
 
-For access to the entire MySQL code [click here](MySQL code)
+For access to the entire MySQL code [click here](https://github.com/JonasGiven/MySQL-fundamentals-project/blob/main/MySQL%20code)
