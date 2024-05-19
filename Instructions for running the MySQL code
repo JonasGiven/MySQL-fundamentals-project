@@ -1,0 +1,36 @@
+
+## MySQL Fundamentals Project: Analyzing Sales Data
+
+### Access the Entire MySQL Code
+To access the entire MySQL code, [click here](https://github.com/JonasGiven/MySQL-fundamentals-project/blob/main/MySQL%20code).
+
+### Step-by-Step Guide to Run the MySQL Code
+
+#### 1. Install MySQL Workbench
+- Here is a youtube tutorial on how to install [MySQL workbench](https://youtu.be/BxdSUGBs0gM?si=VMxhT4WOfB7cYTTT)
+- Download and install MySQL Workbench from the official MySQL website: [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+#### 2. Create a Schema
+- Open MySQL Workbench.
+- In the Navigator pane on the left side, locate and expand the "SCHEMAS" section.
+- Right-click on the empty space within the "SCHEMAS" section and select "Create Schema...".
+- Enter "company_sales" as the name for the schema and click "Apply".
+
+#### 3. Import the Table
+- Download the provided dataset or use the table named "sales".
+- In MySQL Workbench, right-click on the "company_sales" schema that you just created.
+- Select "Table Data Import Wizard".
+- Follow the wizard to import the table named "sales" into the "company_sales" schema.
+- Make sure to specify the correct file or database connection for importing the table.
+
+#### 4. Run the MySQL Code
+- Open the MySQL script file containing the code you want to run.
+- Make sure the schema is set to "company_sales" at the top of the script, or specify it explicitly in the queries.
+- Highlight the queries you want to execute.
+- Click the lightning bolt icon or use the shortcut (Ctrl+Enter) to run the selected queries.
+- Review the results in the output panel to verify the execution of the queries.
+
+### Additional Notes
+- Ensure that MySQL Workbench is properly configured and connected to your MySQL server instance.
+- Double-check the schema name and table name to ensure they match the names used in the MySQL code.
+- Modify the queries as needed to suit your specific analysis 
