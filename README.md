@@ -1,4 +1,4 @@
-
+https://github.com/JonasGiven/MySQL-fundamentals-project/assets/169194581/6812b884-21e6-4adb-9aa1-de32a3507cf3
 ## MySQL Fundamentals: Analyzing Sales Data
 
 ### Project Description
